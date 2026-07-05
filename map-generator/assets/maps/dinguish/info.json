@@ -1,0 +1,83 @@
+{
+  "id": "Dinguish",
+  "name": "Dinguish",
+  "translation_key": "map.dinguish",
+  "categories": [
+    "fictional"
+  ],
+  "multiplayer_frequency": 8,
+  "nations": [
+    {
+      "coordinates": [
+        706,
+        3158
+      ],
+      "flag": "zm",
+      "name": "Rackick Empire"
+    },
+    {
+      "coordinates": [
+        3858,
+        1254
+      ],
+      "flag": "sk",
+      "name": "Northern Kingdoms"
+    },
+    {
+      "coordinates": [
+        2823,
+        2237
+      ],
+      "flag": "kz",
+      "name": "Mergaria"
+    },
+    {
+      "coordinates": [
+        3824,
+        2807
+      ],
+      "flag": "td",
+      "name": "Cirkak"
+    },
+    {
+      "coordinates": [
+        1241,
+        1484
+      ],
+      "flag": "af",
+      "name": "Zira"
+    },
+    {
+      "coordinates": [
+        5204,
+        2174
+      ],
+      "flag": "vn",
+      "name": "Arbi"
+    },
+    {
+      "coordinates": [
+        5888,
+        1323
+      ],
+      "flag": "th",
+      "name": "Iralin"
+    },
+    {
+      "coordinates": [
+        6780,
+        518
+      ],
+      "flag": "ng",
+      "name": "Vordland"
+    },
+    {
+      "coordinates": [
+        7079,
+        2232
+      ],
+      "flag": "so",
+      "name": "Yong Dynasty"
+    }
+  ]
+}
